@@ -1,0 +1,5 @@
+C:\Users\CARLOS\Google Drive\ConsulGroup\TRSLibre\TRSLibre\bin\Release\TRSLibre.exe.config
+C:\Users\CARLOS\Google Drive\ConsulGroup\TRSLibre\TRSLibre\obj\Release\TRSLibre.Form1.resources
+C:\Users\CARLOS\Google Drive\ConsulGroup\TRSLibre\TRSLibre\obj\Release\TRSLibre.FormCaptcha.resources
+C:\Users\CARLOS\Google Drive\ConsulGroup\TRSLibre\TRSLibre\obj\Release\TRSLibre.Properties.Resources.resources
+C:\Users\CARLOS\Google Drive\ConsulGroup\TRSLibre\TRSLibre\obj\Release\TRSLibre.csproj.GenerateResource.Cache

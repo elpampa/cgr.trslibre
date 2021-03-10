@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRSLibre", "TRSLibre\TRSLibre.csproj", "{486AF159-F68A-4BFF-BAA8-A7B58567625C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorClaves", "GeneradorClaves\GeneradorClaves.csproj", "{5209C24B-D491-4A12-BFA4-EFB24DB18F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486AF159-F68A-4BFF-BAA8-A7B58567625C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486AF159-F68A-4BFF-BAA8-A7B58567625C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486AF159-F68A-4BFF-BAA8-A7B58567625C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486AF159-F68A-4BFF-BAA8-A7B58567625C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5209C24B-D491-4A12-BFA4-EFB24DB18F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5209C24B-D491-4A12-BFA4-EFB24DB18F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5209C24B-D491-4A12-BFA4-EFB24DB18F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5209C24B-D491-4A12-BFA4-EFB24DB18F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
